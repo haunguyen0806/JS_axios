@@ -1,3 +1,3 @@
 function themNguoiDung(){
-    console.log("themNguoidung js")
+    console.log("themNguoidung js2")
 }
